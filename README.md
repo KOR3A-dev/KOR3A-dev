@@ -7,7 +7,7 @@ I'm a technologist in Software Development from the Technological University of 
 **💼 Currently working as:** Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" target="_blank"><b>E-government management and digital services</b></a>
 
 **👨🏻‍💻 Currently working on:**
-<code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/laravel/laravel-ar21.svg"></a></code>
+<code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://img.icons8.com/fluency/96/000000/laravel.png"/></a></code>
 <code><a href="https://www.npmjs.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/npm.png"></a></code>
 <code><a href="https://github.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/git.png"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/js.png"></a></code>
