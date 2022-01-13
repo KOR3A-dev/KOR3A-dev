@@ -39,7 +39,8 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
  👨🏻‍💻 Stack of pentesting technologies
 </h2>
 <p align="center">
-<code><a href="https://laravel.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png"/></a></code>
+<code><a href="https://www.metasploit.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png"/></a></code>
+<code><a href="https://portswigger.net/burp" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png"/></a></code>
 
 <br/>
 
