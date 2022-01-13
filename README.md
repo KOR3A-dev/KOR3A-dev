@@ -65,7 +65,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
  
 </p>
 <p align="center">
-<img align="center" src="https://github.com/KOR3A-dev/KOR3A-dev/blob/output/github-contribution-grid-snake.gif">
+<img align="center" src="https://github.com/KOR3A-dev/KOR3A-dev/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 
