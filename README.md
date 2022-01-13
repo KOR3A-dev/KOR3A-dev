@@ -55,7 +55,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 </h2>
 
 <p align="center">
-<img align="center" height="165em"  src="https://github-readme-stats.vercel.app/api?username=KOR3A-dev&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Chandan's Public Github Stats">
+<img align="center" height="165em"  src="https://github-readme-stats.vercel.app/api?username=KOR3A-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Chandan's Public Github Stats">
 <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KOR3A-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 <p align="center">
