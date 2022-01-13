@@ -40,7 +40,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 </h2>
 <p align="center">
 <code><a href="https://www.metasploit.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png"/></a></code>
-<code><a href="https://portswigger.net/burp" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Burpsuite.png"/></a></code>
+<code><a href="https://portswigger.net/burp" target="_blank"><img height="40" src="https://uploads-ssl.webflow.com/5fb1995cde4f3f62e49ba5b6/60b7469800c39c248b741063_burpsuite_logo.png"/></a></code>
 
 <br/>
 
