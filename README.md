@@ -4,7 +4,7 @@
 <img width="300" align="right" src="https://c.tenor.com/h9au5ifIVWYAAAAC/smudge-smudge-cat.gif">
 
 I'm a technologist in Software Development from the Technological University of Pereira.
-**💼 Currently working as:** 
+####💼 Currently working as: 
 Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" target="_blank"><b>E-government management and digital services</b></a>
 
 **👨🏻‍💻 Currently working on:**
