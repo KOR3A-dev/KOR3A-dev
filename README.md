@@ -66,5 +66,6 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
   <a href="https://medium.com/@chandan.reddy"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
   
+⭐️ From [KOR3A-dev](https://github.com/KOR3A-dev)
 <br/>
 
