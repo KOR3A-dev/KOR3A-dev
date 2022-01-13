@@ -51,7 +51,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 <br/>
 
 <h2 align="center">
-    My contributions to open-source:
+    My Statistics In Github
 </h2>
 
 <p align="center">
