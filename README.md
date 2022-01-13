@@ -63,9 +63,11 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
  <a href="https://www.linkedin.com/in/alejandro-valencia-casta%C3%B1eda-b11719208/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  
 </p>
+<p align="center">
+<img align="center" src="https://github.com/KOR3A-dev/KOR3A-dev/blob/output/github-contribution-grid-snake.gif">
+</p>
 
-##Snake eating my contribution graph
-![snake gif](https://github.com/KOR3A-dev/KOR3A-dev/blob/output/github-contribution-grid-snake.gif)
+
   
 ⭐️ From [KOR3A-dev](https://github.com/KOR3A-dev)
 <br/>
