@@ -10,6 +10,11 @@ I'm a technologist in Software Development from the Technological University of 
 
 Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" target="_blank"><b>E-government management and digital services</b></a>
 
+## Things that I execute in free time ⚡   
+  - While Coding, Listening Music and developing useful code.⭐️
+  - Just loved to Explore new Tech Stacks.💻
+  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
+  - Always Willing to help (**Altruistic**). ✋
 
 <h2 align="center">
  👨🏻‍💻 Currently working on
