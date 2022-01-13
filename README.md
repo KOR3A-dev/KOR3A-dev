@@ -7,10 +7,9 @@ I'm a technologist in Software Development from the Technological University of 
 ####💼 Currently working as: 
 Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" target="_blank"><b>E-government management and digital services</b></a>
 
-**👨🏻‍💻 Currently working on:**
 
 <h2 align="center">
-  Here are some technologies I use at work:
+ 👨🏻‍💻 Currently working on
 </h2>
 <p align="center">
 <code><a href="https://laravel.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a></code>
