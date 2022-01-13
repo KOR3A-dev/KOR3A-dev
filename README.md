@@ -50,3 +50,13 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 
 <br/>
 
+<h2 align="center">
+    My contributions to open-source:
+</h2>
+
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KOR3A-dev)](https://github.com/KOR3A-dev/github-readme-stats) alt="Chandan's Public Github Stats">
+</p>  
+
+<br/>
+
