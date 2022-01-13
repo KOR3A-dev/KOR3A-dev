@@ -18,7 +18,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
   - Always Willing to help (**Altruistic**). ✋
 
 <h2 align="center">
- 👨🏻‍💻 Stack of web technologies
+ ![hacker](https://user-images.githubusercontent.com/68349791/149248117-faf1c689-5668-44e5-96b9-df572ca5e0c2.png) Stack of web technologies
 </h2>
 <p align="center">
 <code><a href="https://laravel.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a></code>
