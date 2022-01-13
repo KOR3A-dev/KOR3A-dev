@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia </h1>
+<h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia <img src="https://img.icons8.com/color/48/000000/neo.png"/> </h1>
 
 <img align="right" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
 
