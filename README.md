@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia </h1>
 
-<img align="right" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif">
-**>_ **
+<img align="right" src="https://c.tenor.com/h9au5ifIVWYAAAAC/smudge-smudge-cat.gif">
+
 I'm a technologist in Software Development from the Technological University of Pereira.
 **💼 Currently working as:** 
 Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" target="_blank"><b>E-government management and digital services</b></a>
