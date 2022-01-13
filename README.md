@@ -30,6 +30,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 <code><a href="https://devdocs.io/css/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/css.png"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.svgrepo.com/show/353661/docker.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg"></a></code>
+<code><a href="#" target="_blank"><img height="50" src="https://cdn-icons-png.flaticon.com/512/3231/3231329.png"></a></code>
 </p>
 
 <br/>
