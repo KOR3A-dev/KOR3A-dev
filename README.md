@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia </h1>
 
-<img align="right" src="https://c.tenor.com/h9au5ifIVWYAAAAC/smudge-smudge-cat.gif">
+<img width="200" align="right" src="https://c.tenor.com/h9au5ifIVWYAAAAC/smudge-smudge-cat.gif">
 
 I'm a technologist in Software Development from the Technological University of Pereira.
 **💼 Currently working as:** 
