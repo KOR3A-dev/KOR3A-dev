@@ -45,7 +45,8 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 <code><a href="#" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/68349791/149246620-9291792f-4a44-4797-bef4-a0efd37ecd23.png"/></a></code>
 <code><a href="https://nmap.org/" target="_blank"><img height="40" src="https://nmap.org/images/sitelogo-nmap-1680x900.png"/></a></code>
 <code><a href="https://www.wireshark.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/></a></code>
-<code><a href="@" target="_blank"><img height="40" src="https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg"/></a></code>
+<code><a href="https://www.aircrack-ng.org/" target="_blank"><img height="40" src="https://www.aircrack-ng.org/resources/aircrack-ng-new-logo.jpg"/></a></code>
+<code><a href="" target="_blank"><img height="40" src="https://i2.wp.com/www.somosbinarios.es/wp-content/uploads/2015/02/johntheripper2_design.png"/></a></code>
 
 <br/>
 
