@@ -54,9 +54,8 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
     My contributions to open-source:
 </h2>
 
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KOR3A-dev &theme=radical)
-</p>  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KOR3A-dev&theme=radical)
+  
 
 <br/>
 
