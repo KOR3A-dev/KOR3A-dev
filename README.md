@@ -44,7 +44,7 @@ Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" ta
 <code><a href="https://www.kali.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/68349791/149246133-79432628-885d-4e70-99ac-44bcbb00b7b1.png"/></a></code>
 <code><a href="#" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/68349791/149246620-9291792f-4a44-4797-bef4-a0efd37ecd23.png"/></a></code>
 <code><a href="https://nmap.org/" target="_blank"><img height="40" src="https://nmap.org/images/sitelogo-nmap-1680x900.png"/></a></code>
-<code><a href="https://www.wireshark.org/" target="_blank"><img height="40" src="https://img1.freepng.es/20180616/cbf/kisspng-wireshark-packet-analyzer-computer-software-protoc-leopard-shark-5b24906456ef65.5538393315291229163561.jpg"/></a></code>
+<code><a href="https://www.wireshark.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/></a></code>
 
 <br/>
 
