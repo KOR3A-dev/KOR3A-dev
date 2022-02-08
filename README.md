@@ -8,7 +8,7 @@ I'm a technologist in Software Development from the Technological University of 
 
 💼 Currently working as: 
 
-Junior Fullstack Laravel Developer at <a href="https://www.risaralda.gov.co/" target="_blank"><b>E-government management and digital services</b></a>
+Junior Fullstack Laravel Developer at <a href="https://gtalents.tech/" target="_blank"><b>gTalents tech</b></a>
 
 ## Things that I execute in free time ⚡  
   - I love cybersecurity, I would like to specialize in the area of Pentesting.
