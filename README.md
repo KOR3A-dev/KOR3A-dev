@@ -21,6 +21,7 @@ Junior Fullstack Laravel Developer at <a href="https://gtalents.tech/" target="_
   🛠 Stack of web technologies
 </h2>
 <p align="center">
+<code><a href="https://angular.io/" target="_blank"><img height="40" src="https://www.svgrepo.com/show/327335/logo-angular.svg"/></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a></code>
 <code><a href="https://www.npmjs.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/npm.png"></a></code>
 <code><a href="https://github.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/git.png"></a></code>
