@@ -8,8 +8,9 @@ I'm a technologist in Software Development from the Technological University of 
 
 💼 Currently working as: 
 
-Junior Fullstack Laravel Developer at <a href="https://www.proyectosysolucionesti.com/" target="_blank"><b>Proyectos y Soluciones TI</b></a>
-My Linkedin is : <a href="https://www.linkedin.com/in/alejandro-valencia-casta%C3%B1eda-b11719208/" target="_blank"><b>Alejandro Valencia</b></a>
+Junior Fullstack Laravel Angular Developer at <a href="https://www.proyectosysolucionesti.com/" target="_blank"><b>Proyectos y Soluciones TI</b></a>
+
+My Linkedin <a href="https://www.linkedin.com/in/alejandro-valencia-casta%C3%B1eda-b11719208/" target="_blank"><b>Alejandro Valencia</b></a>
 
 ## Things that I execute in free time ⚡  
   - I love cybersecurity, I would like to specialize in the area of Pentesting.
