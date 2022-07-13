@@ -1,5 +1,6 @@
 
-<h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia </h1>
+<h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia </h1> 
+<h2> Fullstack Developer Laravel Angular </h2>
 
 <img width="300" align="right" src="https://c.tenor.com/h9au5ifIVWYAAAAC/smudge-smudge-cat.gif">
 
