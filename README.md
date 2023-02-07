@@ -26,6 +26,7 @@ Portfolio Web <a href="https://kor3a-dev.github.io/Portafolio/">KOR3A-dev</a>
   🛠 Stack of web technologies
 </h2>
 <p align="center">
+ <code><a href="https://nestjs.com/" target="_blank"><img height="40" src="https://cdn.dribbble.com/users/808903/screenshots/3831862/dribbble_szablon__1_1.png"/></a></code>
 <code><a href="https://ionicframework.com/" target="_blank"><img height="40" src="https://iconape.com/wp-content/files/cn/371185/svg/371185.svg"/></a></code>
 <code><a href="https://angular.io/" target="_blank"><img height="40" src="https://www.svgrepo.com/show/327335/logo-angular.svg"/></a></code>
 <code><a href="https://laravel.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"/></a></code>
