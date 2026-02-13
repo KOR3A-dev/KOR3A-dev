@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hey 👋🏽, I'm Alejandro Valencia </h1> 
-<h2> Fullstack Developer Laravel Angular </h2>
+<h2> Backend Semi senior </h2>
 
 <img width="300" align="right" src="https://c.tenor.com/h9au5ifIVWYAAAAC/smudge-smudge-cat.gif">
 
@@ -9,7 +9,7 @@ I'm a technologist in Software Development from the Technological University of 
 
 💼 Currently working as: 
 
-Development engineer at <a href="https://www.comersantander.com/" target="_blank"><b>Home Elements</b></a>
+Development engineer at <a href="https://www.comersantander.com/](https://linktic.com/" target="_blank"><b>Linktic</b></a>
 
 My Linkedin <a href="https://www.linkedin.com/in/alejandro-valencia-casta%C3%B1eda-b11719208/" target="_blank"><b>Alejandro Valencia</b></a>
 
